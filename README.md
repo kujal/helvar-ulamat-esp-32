@@ -34,4 +34,4 @@ Pair the phone with **ESP32 Speaker**.
 | `i2s_tone_pin_monitor.cpp` | continuous I2S tone, and checks that the I2S pins toggle |
 | `bluetooth_dac_diag.cpp` | Bluetooth to the built-in DAC through the audio library's DMA mode, with an idle test tone |
 
-The MAX98357A version of the Bluetooth speaker, with a volume pot on GPIO34, is in commit `c690f40`.
+The MAX98357A version of the Bluetooth speaker, with a volume pot on GPIO34, is in commit `decef96`.
